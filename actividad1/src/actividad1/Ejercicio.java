@@ -6,6 +6,7 @@ public class Ejercicio {
 		// TODO Auto-generated method stub
 		System.out.println("Hola");
 		System.out.println("Esta es la actividad 1");
+		System.out.println("Realizado por Samuel Jimenez");
 	}
 
 }
